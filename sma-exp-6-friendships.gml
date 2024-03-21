@@ -1093,10 +1093,6 @@ graph [
   ]
   edge [
     source 10
-    target 137
-  ]
-  edge [
-    source 10
     target 44
   ]
   edge [
