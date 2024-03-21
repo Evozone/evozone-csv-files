@@ -1,3760 +1,1271 @@
 Creator "Mark Newman on Sat Jul 22 05:32:16 2006"
-graph
-[
-  directed 0
-  node
-  [
+graph [
+  node [
     id 0
-    label "BrighamYoung"
-    value 7
+    label 1
   ]
-  node
-  [
+  node [
     id 1
-    label "FloridaState"
-    value 0
+    label 2
   ]
-  node
-  [
+  node [
     id 2
-    label "Iowa"
-    value 2
+    label 3
   ]
-  node
-  [
+  node [
     id 3
-    label "KansasState"
-    value 3
+    label 4
   ]
-  node
-  [
+  node [
     id 4
-    label "NewMexico"
-    value 7
+    label 5
   ]
-  node
-  [
+  node [
     id 5
-    label "TexasTech"
-    value 3
+    label 6
   ]
-  node
-  [
+  node [
     id 6
-    label "PennState"
-    value 2
+    label 7
   ]
-  node
-  [
+  node [
     id 7
-    label "SouthernCalifornia"
-    value 8
+    label 8
   ]
-  node
-  [
+  node [
     id 8
-    label "ArizonaState"
-    value 8
+    label 9
   ]
-  node
-  [
+  node [
     id 9
-    label "SanDiegoState"
-    value 7
+    label 10
   ]
-  node
-  [
+  node [
     id 10
-    label "Baylor"
-    value 3
+    label 11
   ]
-  node
-  [
+  node [
     id 11
-    label "NorthTexas"
-    value 10
+    label 12
   ]
-  node
-  [
+  node [
     id 12
-    label "NorthernIllinois"
-    value 6
+    label 13
   ]
-  node
-  [
+  node [
     id 13
-    label "Northwestern"
-    value 2
+    label 14
   ]
-  node
-  [
+  node [
     id 14
-    label "WesternMichigan"
-    value 6
+    label 15
   ]
-  node
-  [
+  node [
     id 15
-    label "Wisconsin"
-    value 2
+    label 16
   ]
-  node
-  [
+  node [
     id 16
-    label "Wyoming"
-    value 7
+    label 17
   ]
-  node
-  [
+  node [
     id 17
-    label "Auburn"
-    value 9
+    label 18
   ]
-  node
-  [
+  node [
     id 18
-    label "Akron"
-    value 6
+    label 19
   ]
-  node
-  [
+  node [
     id 19
-    label "VirginiaTech"
-    value 1
+    label 20
   ]
-  node
-  [
+  node [
     id 20
-    label "Alabama"
-    value 9
+    label 21
   ]
-  node
-  [
+  node [
     id 21
-    label "UCLA"
-    value 8
+    label 22
   ]
-  node
-  [
+  node [
     id 22
-    label "Arizona"
-    value 8
+    label 23
   ]
-  node
-  [
+  node [
     id 23
-    label "Utah"
-    value 7
+    label 24
   ]
-  node
-  [
+  node [
     id 24
-    label "ArkansasState"
-    value 10
+    label 25
   ]
-  node
-  [
+  node [
     id 25
-    label "NorthCarolinaState"
-    value 0
+    label 26
   ]
-  node
-  [
+  node [
     id 26
-    label "BallState"
-    value 6
+    label 27
   ]
-  node
-  [
+  node [
     id 27
-    label "Florida"
-    value 9
+    label 28
   ]
-  node
-  [
+  node [
     id 28
-    label "BoiseState"
-    value 11
+    label 29
   ]
-  node
-  [
+  node [
     id 29
-    label "BostonCollege"
-    value 1
+    label 30
   ]
-  node
-  [
+  node [
     id 30
-    label "WestVirginia"
-    value 1
+    label 31
   ]
-  node
-  [
+  node [
     id 31
-    label "BowlingGreenState"
-    value 6
+    label 32
   ]
-  node
-  [
+  node [
     id 32
-    label "Michigan"
-    value 2
+    label 33
   ]
-  node
-  [
+  node [
     id 33
-    label "Virginia"
-    value 0
+    label 34
   ]
-  node
-  [
+  node [
     id 34
-    label "Buffalo"
-    value 6
+    label 35
   ]
-  node
-  [
+  node [
     id 35
-    label "Syracuse"
-    value 1
+    label 36
   ]
-  node
-  [
+  node [
     id 36
-    label "CentralFlorida"
-    value 5
+    label 37
   ]
-  node
-  [
+  node [
     id 37
-    label "GeorgiaTech"
-    value 0
+    label 38
   ]
-  node
-  [
+  node [
     id 38
-    label "CentralMichigan"
-    value 6
+    label 39
   ]
-  node
-  [
+  node [
     id 39
-    label "Purdue"
-    value 2
+    label 40
   ]
-  node
-  [
+  node [
     id 40
-    label "Colorado"
-    value 3
+    label 41
   ]
-  node
-  [
+  node [
     id 41
-    label "ColoradoState"
-    value 7
+    label 42
   ]
-  node
-  [
+  node [
     id 42
-    label "Connecticut"
-    value 5
+    label 43
   ]
-  node
-  [
+  node [
     id 43
-    label "EasternMichigan"
-    value 6
+    label 44
   ]
-  node
-  [
+  node [
     id 44
-    label "EastCarolina"
-    value 4
+    label 45
   ]
-  node
-  [
+  node [
     id 45
-    label "Duke"
-    value 0
+    label 46
   ]
-  node
-  [
+  node [
     id 46
-    label "FresnoState"
-    value 11
+    label 47
   ]
-  node
-  [
+  node [
     id 47
-    label "OhioState"
-    value 2
+    label 48
   ]
-  node
-  [
+  node [
     id 48
-    label "Houston"
-    value 4
+    label 49
   ]
-  node
-  [
+  node [
     id 49
-    label "Rice"
-    value 11
+    label 50
   ]
-  node
-  [
+  node [
     id 50
-    label "Idaho"
-    value 10
+    label 51
   ]
-  node
-  [
+  node [
     id 51
-    label "Washington"
-    value 8
+    label 52
   ]
-  node
-  [
+  node [
     id 52
-    label "Kansas"
-    value 3
+    label 53
   ]
-  node
-  [
+  node [
     id 53
-    label "SouthernMethodist"
-    value 11
+    label 54
   ]
-  node
-  [
+  node [
     id 54
-    label "Kent"
-    value 6
+    label 55
   ]
-  node
-  [
+  node [
     id 55
-    label "Pittsburgh"
-    value 1
+    label 56
   ]
-  node
-  [
+  node [
     id 56
-    label "Kentucky"
-    value 9
+    label 57
   ]
-  node
-  [
+  node [
     id 57
-    label "Louisville"
-    value 4
+    label 58
   ]
-  node
-  [
+  node [
     id 58
-    label "LouisianaTech"
-    value 11
+    label 59
   ]
-  node
-  [
+  node [
     id 59
-    label "LouisianaMonroe"
-    value 10
+    label 60
   ]
-  node
-  [
+  node [
     id 60
-    label "Minnesota"
-    value 2
+    label 61
   ]
-  node
-  [
+  node [
     id 61
-    label "MiamiOhio"
-    value 6
+    label 62
   ]
-  node
-  [
+  node [
     id 62
-    label "Vanderbilt"
-    value 9
+    label 63
   ]
-  node
-  [
+  node [
     id 63
-    label "MiddleTennesseeState"
-    value 10
+    label 64
   ]
-  node
-  [
+  node [
     id 64
-    label "Illinois"
-    value 2
+    label 65
   ]
-  node
-  [
+  node [
     id 65
-    label "MississippiState"
-    value 9
+    label 66
   ]
-  node
-  [
+  node [
     id 66
-    label "Memphis"
-    value 4
+    label 67
   ]
-  node
-  [
+  node [
     id 67
-    label "Nevada"
-    value 11
+    label 68
   ]
-  node
-  [
+  node [
     id 68
-    label "Oregon"
-    value 8
+    label 69
   ]
-  node
-  [
+  node [
     id 69
-    label "NewMexicoState"
-    value 10
+    label 70
   ]
-  node
-  [
+  node [
     id 70
-    label "SouthCarolina"
-    value 9
+    label 71
   ]
-  node
-  [
+  node [
     id 71
-    label "Ohio"
-    value 6
+    label 72
   ]
-  node
-  [
+  node [
     id 72
-    label "IowaState"
-    value 3
+    label 73
   ]
-  node
-  [
+  node [
     id 73
-    label "SanJoseState"
-    value 11
+    label 74
   ]
-  node
-  [
+  node [
     id 74
-    label "Nebraska"
-    value 3
+    label 75
   ]
-  node
-  [
+  node [
     id 75
-    label "SouthernMississippi"
-    value 4
+    label 76
   ]
-  node
-  [
+  node [
     id 76
-    label "Tennessee"
-    value 9
+    label 77
   ]
-  node
-  [
+  node [
     id 77
-    label "Stanford"
-    value 8
+    label 78
   ]
-  node
-  [
+  node [
     id 78
-    label "WashingtonState"
-    value 8
+    label 79
   ]
-  node
-  [
+  node [
     id 79
-    label "Temple"
-    value 1
+    label 80
   ]
-  node
-  [
+  node [
     id 80
-    label "Navy"
-    value 5
+    label 81
   ]
-  node
-  [
+  node [
     id 81
-    label "TexasA&M"
-    value 3
+    label 82
   ]
-  node
-  [
+  node [
     id 82
-    label "NotreDame"
-    value 5
+    label 83
   ]
-  node
-  [
+  node [
     id 83
-    label "TexasElPaso"
-    value 11
+    label 84
   ]
-  node
-  [
+  node [
     id 84
-    label "Oklahoma"
-    value 3
+    label 85
   ]
-  node
-  [
+  node [
     id 85
-    label "Toledo"
-    value 6
+    label 86
   ]
-  node
-  [
+  node [
     id 86
-    label "Tulane"
-    value 4
+    label 87
   ]
-  node
-  [
+  node [
     id 87
-    label "Mississippi"
-    value 9
+    label 88
   ]
-  node
-  [
+  node [
     id 88
-    label "Tulsa"
-    value 11
+    label 89
   ]
-  node
-  [
+  node [
     id 89
-    label "NorthCarolina"
-    value 0
+    label 90
   ]
-  node
-  [
+  node [
     id 90
-    label "UtahState"
-    value 5
+    label 91
   ]
-  node
-  [
+  node [
     id 91
-    label "Army"
-    value 4
+    label 92
   ]
-  node
-  [
+  node [
     id 92
-    label "Cincinnati"
-    value 4
+    label 93
   ]
-  node
-  [
+  node [
     id 93
-    label "AirForce"
-    value 7
+    label 94
   ]
-  node
-  [
+  node [
     id 94
-    label "Rutgers"
-    value 1
+    label 95
   ]
-  node
-  [
+  node [
     id 95
-    label "Georgia"
-    value 9
+    label 96
   ]
-  node
-  [
+  node [
     id 96
-    label "LouisianaState"
-    value 9
+    label 97
   ]
-  node
-  [
+  node [
     id 97
-    label "LouisianaLafayette"
-    value 10
+    label 98
   ]
-  node
-  [
+  node [
     id 98
-    label "Texas"
-    value 3
+    label 99
   ]
-  node
-  [
+  node [
     id 99
-    label "Marshall"
-    value 6
+    label 100
   ]
-  node
-  [
+  node [
     id 100
-    label "MichiganState"
-    value 2
+    label 101
   ]
-  node
-  [
-    id 101
-    label "MiamiFlorida"
-    value 1
+  edge [
+    source 0
+    target 1
   ]
-  node
-  [
-    id 102
-    label "Missouri"
-    value 3
-  ]
-  node
-  [
-    id 103
-    label "Clemson"
-    value 0
-  ]
-  node
-  [
-    id 104
-    label "NevadaLasVegas"
-    value 7
-  ]
-  node
-  [
-    id 105
-    label "WakeForest"
-    value 0
-  ]
-  node
-  [
-    id 106
-    label "Indiana"
-    value 2
-  ]
-  node
-  [
-    id 107
-    label "OklahomaState"
-    value 3
-  ]
-  node
-  [
-    id 108
-    label "OregonState"
-    value 8
-  ]
-  node
-  [
-    id 109
-    label "Maryland"
-    value 0
-  ]
-  node
-  [
-    id 110
-    label "TexasChristian"
-    value 4
-  ]
-  node
-  [
-    id 111
-    label "California"
-    value 8
-  ]
-  node
-  [
-    id 112
-    label "AlabamaBirmingham"
-    value 4
-  ]
-  node
-  [
-    id 113
-    label "Arkansas"
-    value 9
-  ]
-  node
-  [
-    id 114
-    label "Hawaii"
-    value 11
-  ]
-  edge
-  [
-    source 1
-    target 0
-  ]
-  edge
-  [
-    source 3
+  edge [
+    source 0
     target 2
   ]
-  edge
-  [
-    source 4
-    target 0
-  ]
-  edge
-  [
-    source 5
-    target 4
-  ]
-  edge
-  [
-    source 5
+  edge [
+    source 0
     target 3
   ]
-  edge
-  [
-    source 6
-    target 2
-  ]
-  edge
-  [
-    source 7
-    target 6
-  ]
-  edge
-  [
-    source 8
-    target 7
-  ]
-  edge
-  [
-    source 9
-    target 8
-  ]
-  edge
-  [
-    source 9
-    target 0
-  ]
-  edge
-  [
-    source 9
+  edge [
+    source 0
     target 4
   ]
-  edge
-  [
-    source 10
+  edge [
+    source 0
     target 5
   ]
-  edge
-  [
-    source 11
+  edge [
+    source 0
+    target 6
+  ]
+  edge [
+    source 0
+    target 7
+  ]
+  edge [
+    source 0
+    target 8
+  ]
+  edge [
+    source 0
+    target 9
+  ]
+  edge [
+    source 0
     target 10
   ]
-  edge
-  [
-    source 11
-    target 5
+  edge [
+    source 0
+    target 11
   ]
-  edge
-  [
-    source 11
-    target 3
-  ]
-  edge
-  [
-    source 13
+  edge [
+    source 0
     target 12
   ]
-  edge
-  [
-    source 13
-    target 2
-  ]
-  edge
-  [
-    source 14
-    target 2
-  ]
-  edge
-  [
-    source 14
-    target 12
-  ]
-  edge
-  [
-    source 15
-    target 14
-  ]
-  edge
-  [
-    source 15
+  edge [
+    source 0
     target 13
   ]
-  edge
-  [
-    source 15
-    target 2
+  edge [
+    source 0
+    target 14
   ]
-  edge
-  [
-    source 16
-    target 4
+  edge [
+    source 0
+    target 15
   ]
-  edge
-  [
-    source 16
-    target 9
-  ]
-  edge
-  [
-    source 16
-    target 0
-  ]
-  edge
-  [
-    source 17
+  edge [
+    source 0
     target 16
   ]
-  edge
-  [
-    source 17
-    target 12
-  ]
-  edge
-  [
-    source 18
-    target 12
-  ]
-  edge
-  [
-    source 19
-    target 18
-  ]
-  edge
-  [
-    source 20
+  edge [
+    source 0
     target 17
   ]
-  edge
-  [
-    source 21
+  edge [
+    source 0
+    target 18
+  ]
+  edge [
+    source 0
+    target 19
+  ]
+  edge [
+    source 0
     target 20
   ]
-  edge
-  [
-    source 21
-    target 8
-  ]
-  edge
-  [
-    source 21
-    target 7
-  ]
-  edge
-  [
-    source 22
-    target 9
-  ]
-  edge
-  [
-    source 22
-    target 7
-  ]
-  edge
-  [
-    source 22
+  edge [
+    source 0
     target 21
   ]
-  edge
-  [
-    source 22
-    target 8
-  ]
-  edge
-  [
-    source 23
+  edge [
+    source 0
     target 22
   ]
-  edge
-  [
-    source 23
-    target 9
-  ]
-  edge
-  [
-    source 23
-    target 4
-  ]
-  edge
-  [
-    source 23
-    target 16
-  ]
-  edge
-  [
-    source 23
-    target 0
-  ]
-  edge
-  [
-    source 24
-    target 11
-  ]
-  edge
-  [
-    source 25
-    target 24
-  ]
-  edge
-  [
-    source 25
-    target 1
-  ]
-  edge
-  [
-    source 26
-    target 3
-  ]
-  edge
-  [
-    source 26
-    target 12
-  ]
-  edge
-  [
-    source 26
-    target 14
-  ]
-  edge
-  [
-    source 27
-    target 26
-  ]
-  edge
-  [
-    source 27
-    target 17
-  ]
-  edge
-  [
-    source 27
-    target 1
-  ]
-  edge
-  [
-    source 28
-    target 4
-  ]
-  edge
-  [
-    source 28
-    target 11
-  ]
-  edge
-  [
-    source 28
-    target 24
-  ]
-  edge
-  [
-    source 29
-    target 19
-  ]
-  edge
-  [
-    source 30
-    target 29
-  ]
-  edge
-  [
-    source 30
-    target 19
-  ]
-  edge
-  [
-    source 31
-    target 18
-  ]
-  edge
-  [
-    source 32
-    target 31
-  ]
-  edge
-  [
-    source 32
-    target 21
-  ]
-  edge
-  [
-    source 32
-    target 15
-  ]
-  edge
-  [
-    source 32
-    target 13
-  ]
-  edge
-  [
-    source 32
-    target 6
-  ]
-  edge
-  [
-    source 33
-    target 0
-  ]
-  edge
-  [
-    source 33
-    target 1
-  ]
-  edge
-  [
-    source 33
-    target 25
-  ]
-  edge
-  [
-    source 33
-    target 19
-  ]
-  edge
-  [
-    source 34
-    target 31
-  ]
-  edge
-  [
-    source 34
-    target 26
-  ]
-  edge
-  [
-    source 34
-    target 12
-  ]
-  edge
-  [
-    source 34
-    target 18
-  ]
-  edge
-  [
-    source 35
-    target 34
-  ]
-  edge
-  [
-    source 35
-    target 0
-  ]
-  edge
-  [
-    source 35
-    target 29
-  ]
-  edge
-  [
-    source 35
-    target 19
-  ]
-  edge
-  [
-    source 35
-    target 30
-  ]
-  edge
-  [
-    source 36
-    target 18
-  ]
-  edge
-  [
-    source 36
-    target 12
-  ]
-  edge
-  [
-    source 36
-    target 20
-  ]
-  edge
-  [
-    source 36
-    target 19
-  ]
-  edge
-  [
-    source 37
-    target 36
-  ]
-  edge
-  [
-    source 37
-    target 1
-  ]
-  edge
-  [
-    source 37
-    target 25
-  ]
-  edge
-  [
-    source 37
-    target 33
-  ]
-  edge
-  [
-    source 38
-    target 18
-  ]
-  edge
-  [
-    source 38
-    target 16
-  ]
-  edge
-  [
-    source 38
-    target 28
-  ]
-  edge
-  [
-    source 38
-    target 26
-  ]
-  edge
-  [
-    source 38
-    target 14
-  ]
-  edge
-  [
-    source 38
-    target 12
-  ]
-  edge
-  [
-    source 39
-    target 38
-  ]
-  edge
-  [
-    source 39
-    target 6
-  ]
-  edge
-  [
-    source 39
-    target 32
-  ]
-  edge
-  [
-    source 39
-    target 13
-  ]
-  edge
-  [
-    source 39
-    target 15
-  ]
-  edge
-  [
-    source 40
-    target 7
-  ]
-  edge
-  [
-    source 40
-    target 3
-  ]
-  edge
-  [
-    source 41
-    target 40
-  ]
-  edge
-  [
-    source 41
-    target 8
-  ]
-  edge
-  [
-    source 41
-    target 4
-  ]
-  edge
-  [
-    source 41
+  edge [
+    source 0
     target 23
   ]
-  edge
-  [
-    source 41
-    target 9
+  edge [
+    source 0
+    target 24
   ]
-  edge
-  [
-    source 41
-    target 0
+  edge [
+    source 0
+    target 25
   ]
-  edge
-  [
-    source 41
-    target 16
+  edge [
+    source 0
+    target 26
   ]
-  edge
-  [
-    source 42
-    target 34
+  edge [
+    source 0
+    target 27
   ]
-  edge
-  [
-    source 42
+  edge [
+    source 0
+    target 28
+  ]
+  edge [
+    source 0
     target 29
   ]
-  edge
-  [
-    source 42
-    target 18
-  ]
-  edge
-  [
-    source 42
-    target 26
-  ]
-  edge
-  [
-    source 43
-    target 42
-  ]
-  edge
-  [
-    source 43
-    target 36
-  ]
-  edge
-  [
-    source 43
-    target 26
-  ]
-  edge
-  [
-    source 43
-    target 31
-  ]
-  edge
-  [
-    source 43
-    target 38
-  ]
-  edge
-  [
-    source 43
-    target 12
-  ]
-  edge
-  [
-    source 43
-    target 14
-  ]
-  edge
-  [
-    source 44
-    target 19
-  ]
-  edge
-  [
-    source 44
-    target 35
-  ]
-  edge
-  [
-    source 44
+  edge [
+    source 0
     target 30
   ]
-  edge
-  [
-    source 45
-    target 44
+  edge [
+    source 1
+    target 2
   ]
-  edge
-  [
-    source 45
-    target 13
+  edge [
+    source 1
+    target 3
   ]
-  edge
-  [
-    source 45
+  edge [
+    source 1
+    target 5
+  ]
+  edge [
+    source 1
+    target 6
+  ]
+  edge [
+    source 1
+    target 7
+  ]
+  edge [
+    source 1
+    target 8
+  ]
+  edge [
+    source 1
+    target 9
+  ]
+  edge [
+    source 1
+    target 10
+  ]
+  edge [
+    source 1
+    target 12
+  ]
+  edge [
+    source 1
+    target 15
+  ]
+  edge [
+    source 1
+    target 17
+  ]
+  edge [
+    source 1
+    target 18
+  ]
+  edge [
+    source 1
+    target 19
+  ]
+  edge [
+    source 1
+    target 21
+  ]
+  edge [
+    source 1
+    target 23
+  ]
+  edge [
+    source 1
+    target 31
+  ]
+  edge [
+    source 1
+    target 32
+  ]
+  edge [
+    source 1
     target 33
   ]
-  edge
-  [
-    source 45
-    target 1
+  edge [
+    source 1
+    target 34
   ]
-  edge
-  [
-    source 45
+  edge [
+    source 1
+    target 35
+  ]
+  edge [
+    source 1
+    target 36
+  ]
+  edge [
+    source 1
     target 37
   ]
-  edge
-  [
-    source 45
-    target 25
-  ]
-  edge
-  [
-    source 46
-    target 21
-  ]
-  edge
-  [
-    source 47
-    target 46
-  ]
-  edge
-  [
-    source 47
-    target 22
-  ]
-  edge
-  [
-    source 47
-    target 6
-  ]
-  edge
-  [
-    source 47
-    target 15
-  ]
-  edge
-  [
-    source 47
-    target 2
-  ]
-  edge
-  [
-    source 47
-    target 39
-  ]
-  edge
-  [
-    source 47
-    target 32
-  ]
-  edge
-  [
-    source 48
-    target 44
-  ]
-  edge
-  [
-    source 49
-    target 48
-  ]
-  edge
-  [
-    source 49
-    target 32
-  ]
-  edge
-  [
-    source 49
-    target 46
-  ]
-  edge
-  [
-    source 50
-    target 30
-  ]
-  edge
-  [
-    source 50
-    target 24
-  ]
-  edge
-  [
-    source 50
-    target 11
-  ]
-  edge
-  [
-    source 50
-    target 28
-  ]
-  edge
-  [
-    source 51
-    target 50
-  ]
-  edge
-  [
-    source 51
-    target 40
-  ]
-  edge
-  [
-    source 51
-    target 8
-  ]
-  edge
-  [
-    source 51
-    target 22
-  ]
-  edge
-  [
-    source 51
-    target 21
-  ]
-  edge
-  [
-    source 52
+  edge [
+    source 2
     target 3
   ]
-  edge
-  [
-    source 52
-    target 40
-  ]
-  edge
-  [
-    source 52
+  edge [
+    source 2
     target 5
   ]
-  edge
-  [
-    source 53
-    target 52
-  ]
-  edge
-  [
-    source 53
-    target 25
-  ]
-  edge
-  [
-    source 53
-    target 48
-  ]
-  edge
-  [
-    source 53
-    target 49
-  ]
-  edge
-  [
-    source 53
-    target 46
-  ]
-  edge
-  [
-    source 54
-    target 39
-  ]
-  edge
-  [
-    source 54
-    target 31
-  ]
-  edge
-  [
-    source 54
-    target 38
-  ]
-  edge
-  [
-    source 54
-    target 14
-  ]
-  edge
-  [
-    source 54
-    target 34
-  ]
-  edge
-  [
-    source 54
-    target 18
-  ]
-  edge
-  [
-    source 55
-    target 54
-  ]
-  edge
-  [
-    source 55
-    target 31
-  ]
-  edge
-  [
-    source 55
+  edge [
+    source 2
     target 6
   ]
-  edge
-  [
-    source 55
-    target 35
+  edge [
+    source 2
+    target 7
   ]
-  edge
-  [
-    source 55
-    target 29
+  edge [
+    source 2
+    target 8
   ]
-  edge
-  [
-    source 55
+  edge [
+    source 2
+    target 10
+  ]
+  edge [
+    source 2
+    target 11
+  ]
+  edge [
+    source 2
+    target 12
+  ]
+  edge [
+    source 2
+    target 15
+  ]
+  edge [
+    source 2
+    target 17
+  ]
+  edge [
+    source 2
+    target 18
+  ]
+  edge [
+    source 2
     target 19
   ]
-  edge
-  [
-    source 55
-    target 30
+  edge [
+    source 2
+    target 20
   ]
-  edge
-  [
-    source 56
-    target 27
+  edge [
+    source 2
+    target 21
   ]
-  edge
-  [
-    source 57
-    target 56
+  edge [
+    source 2
+    target 22
   ]
-  edge
-  [
-    source 57
-    target 1
-  ]
-  edge
-  [
-    source 57
-    target 42
-  ]
-  edge
-  [
-    source 57
-    target 44
-  ]
-  edge
-  [
-    source 57
-    target 48
-  ]
-  edge
-  [
-    source 58
-    target 3
-  ]
-  edge
-  [
-    source 58
-    target 6
-  ]
-  edge
-  [
-    source 58
-    target 17
-  ]
-  edge
-  [
-    source 58
-    target 36
-  ]
-  edge
-  [
-    source 59
-    target 36
-  ]
-  edge
-  [
-    source 59
-    target 58
-  ]
-  edge
-  [
-    source 60
-    target 59
-  ]
-  edge
-  [
-    source 60
-    target 10
-  ]
-  edge
-  [
-    source 60
-    target 39
-  ]
-  edge
-  [
-    source 60
-    target 6
-  ]
-  edge
-  [
-    source 60
-    target 47
-  ]
-  edge
-  [
-    source 60
-    target 13
-  ]
-  edge
-  [
-    source 60
-    target 15
-  ]
-  edge
-  [
-    source 60
-    target 2
-  ]
-  edge
-  [
-    source 61
-    target 43
-  ]
-  edge
-  [
-    source 61
-    target 47
-  ]
-  edge
-  [
-    source 61
-    target 54
-  ]
-  edge
-  [
-    source 61
-    target 18
-  ]
-  edge
-  [
-    source 61
+  edge [
+    source 2
     target 26
   ]
-  edge
-  [
-    source 61
-    target 31
-  ]
-  edge
-  [
-    source 61
-    target 34
-  ]
-  edge
-  [
-    source 62
-    target 61
-  ]
-  edge
-  [
-    source 62
-    target 20
-  ]
-  edge
-  [
-    source 62
-    target 45
-  ]
-  edge
-  [
-    source 62
-    target 17
-  ]
-  edge
-  [
-    source 62
+  edge [
+    source 2
     target 27
   ]
-  edge
-  [
-    source 62
-    target 56
+  edge [
+    source 2
+    target 33
   ]
-  edge
-  [
-    source 63
-    target 27
-  ]
-  edge
-  [
-    source 63
-    target 58
-  ]
-  edge
-  [
-    source 63
-    target 59
-  ]
-  edge
-  [
-    source 63
-    target 42
-  ]
-  edge
-  [
-    source 64
-    target 63
-  ]
-  edge
-  [
-    source 64
-    target 9
-  ]
-  edge
-  [
-    source 64
-    target 32
-  ]
-  edge
-  [
-    source 64
-    target 60
-  ]
-  edge
-  [
-    source 64
-    target 2
-  ]
-  edge
-  [
-    source 64
-    target 6
-  ]
-  edge
-  [
-    source 64
-    target 47
-  ]
-  edge
-  [
-    source 64
-    target 13
-  ]
-  edge
-  [
-    source 65
-    target 0
-  ]
-  edge
-  [
-    source 65
-    target 27
-  ]
-  edge
-  [
-    source 65
-    target 17
-  ]
-  edge
-  [
-    source 65
-    target 63
-  ]
-  edge
-  [
-    source 65
-    target 56
-  ]
-  edge
-  [
-    source 65
-    target 20
-  ]
-  edge
-  [
-    source 66
-    target 65
-  ]
-  edge
-  [
-    source 66
-    target 59
-  ]
-  edge
-  [
-    source 66
-    target 24
-  ]
-  edge
-  [
-    source 66
-    target 44
-  ]
-  edge
-  [
-    source 66
-    target 48
-  ]
-  edge
-  [
-    source 67
-    target 16
-  ]
-  edge
-  [
-    source 67
-    target 41
-  ]
-  edge
-  [
-    source 67
-    target 46
-  ]
-  edge
-  [
-    source 67
-    target 53
-  ]
-  edge
-  [
-    source 67
-    target 49
-  ]
-  edge
-  [
-    source 68
-    target 67
-  ]
-  edge
-  [
-    source 68
-    target 15
-  ]
-  edge
-  [
-    source 68
-    target 50
-  ]
-  edge
-  [
-    source 68
-    target 21
-  ]
-  edge
-  [
-    source 68
-    target 51
-  ]
-  edge
-  [
-    source 68
-    target 7
-  ]
-  edge
-  [
-    source 68
-    target 22
-  ]
-  edge
-  [
-    source 68
-    target 8
-  ]
-  edge
-  [
-    source 69
-    target 4
-  ]
-  edge
-  [
-    source 69
-    target 24
-  ]
-  edge
-  [
-    source 69
-    target 28
-  ]
-  edge
-  [
-    source 69
-    target 50
-  ]
-  edge
-  [
-    source 69
-    target 11
-  ]
-  edge
-  [
-    source 70
-    target 69
-  ]
-  edge
-  [
-    source 70
-    target 43
-  ]
-  edge
-  [
-    source 70
-    target 65
-  ]
-  edge
-  [
-    source 70
-    target 20
-  ]
-  edge
-  [
-    source 70
-    target 56
-  ]
-  edge
-  [
-    source 70
-    target 62
-  ]
-  edge
-  [
-    source 70
-    target 27
-  ]
-  edge
-  [
-    source 71
-    target 60
-  ]
-  edge
-  [
-    source 71
-    target 18
-  ]
-  edge
-  [
-    source 71
-    target 14
-  ]
-  edge
-  [
-    source 71
-    target 34
-  ]
-  edge
-  [
-    source 71
-    target 54
-  ]
-  edge
-  [
-    source 71
+  edge [
+    source 2
     target 38
   ]
-  edge
-  [
-    source 71
-    target 61
+  edge [
+    source 2
+    target 39
   ]
-  edge
-  [
-    source 71
-    target 31
-  ]
-  edge
-  [
-    source 72
-    target 71
-  ]
-  edge
-  [
-    source 72
-    target 2
-  ]
-  edge
-  [
-    source 72
-    target 10
-  ]
-  edge
-  [
-    source 72
-    target 3
-  ]
-  edge
-  [
-    source 72
+  edge [
+    source 2
     target 40
   ]
-  edge
-  [
-    source 72
-    target 52
+  edge [
+    source 2
+    target 41
   ]
-  edge
-  [
-    source 73
-    target 7
+  edge [
+    source 2
+    target 42
   ]
-  edge
-  [
-    source 73
-    target 49
+  edge [
+    source 2
+    target 43
   ]
-  edge
-  [
-    source 73
-    target 53
-  ]
-  edge
-  [
-    source 73
-    target 67
-  ]
-  edge
-  [
-    source 73
-    target 46
-  ]
-  edge
-  [
-    source 74
-    target 73
-  ]
-  edge
-  [
-    source 74
-    target 2
-  ]
-  edge
-  [
-    source 74
-    target 72
-  ]
-  edge
-  [
-    source 74
-    target 5
-  ]
-  edge
-  [
-    source 74
-    target 10
-  ]
-  edge
-  [
-    source 74
-    target 52
-  ]
-  edge
-  [
-    source 74
-    target 3
-  ]
-  edge
-  [
-    source 74
-    target 40
-  ]
-  edge
-  [
-    source 75
-    target 20
-  ]
-  edge
-  [
-    source 75
-    target 66
-  ]
-  edge
-  [
-    source 75
-    target 48
-  ]
-  edge
-  [
-    source 75
-    target 57
-  ]
-  edge
-  [
-    source 75
+  edge [
+    source 2
     target 44
   ]
-  edge
-  [
-    source 76
-    target 75
+  edge [
+    source 2
+    target 45
   ]
-  edge
-  [
-    source 76
-    target 27
+  edge [
+    source 2
+    target 46
   ]
-  edge
-  [
-    source 76
-    target 59
+  edge [
+    source 2
+    target 47
   ]
-  edge
-  [
-    source 76
-    target 20
+  edge [
+    source 2
+    target 48
   ]
-  edge
-  [
-    source 76
-    target 70
+  edge [
+    source 2
+    target 49
   ]
-  edge
-  [
-    source 76
-    target 66
-  ]
-  edge
-  [
-    source 76
-    target 56
-  ]
-  edge
-  [
-    source 76
-    target 62
-  ]
-  edge
-  [
-    source 77
-    target 73
-  ]
-  edge
-  [
-    source 77
-    target 22
-  ]
-  edge
-  [
-    source 77
-    target 7
-  ]
-  edge
-  [
-    source 77
-    target 51
-  ]
-  edge
-  [
-    source 77
-    target 21
-  ]
-  edge
-  [
-    source 77
-    target 8
-  ]
-  edge
-  [
-    source 78
-    target 77
-  ]
-  edge
-  [
-    source 78
-    target 23
-  ]
-  edge
-  [
-    source 78
+  edge [
+    source 2
     target 50
   ]
-  edge
-  [
-    source 78
-    target 28
+  edge [
+    source 2
+    target 51
   ]
-  edge
-  [
-    source 78
-    target 22
+  edge [
+    source 2
+    target 52
   ]
-  edge
-  [
-    source 78
-    target 8
+  edge [
+    source 2
+    target 53
   ]
-  edge
-  [
-    source 78
+  edge [
+    source 2
+    target 54
+  ]
+  edge [
+    source 2
+    target 55
+  ]
+  edge [
+    source 3
+    target 10
+  ]
+  edge [
+    source 3
+    target 21
+  ]
+  edge [
+    source 3
+    target 45
+  ]
+  edge [
+    source 3
+    target 56
+  ]
+  edge [
+    source 3
+    target 57
+  ]
+  edge [
+    source 3
+    target 58
+  ]
+  edge [
+    source 3
+    target 59
+  ]
+  edge [
+    source 3
+    target 60
+  ]
+  edge [
+    source 3
+    target 61
+  ]
+  edge [
+    source 3
+    target 62
+  ]
+  edge [
+    source 3
+    target 63
+  ]
+  edge [
+    source 3
+    target 64
+  ]
+  edge [
+    source 3
+    target 65
+  ]
+  edge [
+    source 3
+    target 66
+  ]
+  edge [
+    source 3
+    target 67
+  ]
+  edge [
+    source 3
     target 68
   ]
-  edge
-  [
-    source 78
-    target 7
-  ]
-  edge
-  [
-    source 78
-    target 51
-  ]
-  edge
-  [
-    source 79
-    target 31
-  ]
-  edge
-  [
-    source 79
-    target 43
-  ]
-  edge
-  [
-    source 79
-    target 30
-  ]
-  edge
-  [
-    source 79
-    target 19
-  ]
-  edge
-  [
-    source 79
-    target 29
-  ]
-  edge
-  [
-    source 79
-    target 35
-  ]
-  edge
-  [
-    source 79
-    target 55
-  ]
-  edge
-  [
-    source 80
-    target 79
-  ]
-  edge
-  [
-    source 80
-    target 37
-  ]
-  edge
-  [
-    source 80
-    target 29
-  ]
-  edge
-  [
-    source 81
-    target 16
-  ]
-  edge
-  [
-    source 81
-    target 5
-  ]
-  edge
-  [
-    source 81
-    target 40
-  ]
-  edge
-  [
-    source 81
-    target 10
-  ]
-  edge
-  [
-    source 81
-    target 72
-  ]
-  edge
-  [
-    source 81
-    target 3
-  ]
-  edge
-  [
-    source 82
-    target 81
-  ]
-  edge
-  [
-    source 82
-    target 74
-  ]
-  edge
-  [
-    source 82
-    target 39
-  ]
-  edge
-  [
-    source 82
-    target 77
-  ]
-  edge
-  [
-    source 82
-    target 80
-  ]
-  edge
-  [
-    source 82
-    target 30
-  ]
-  edge
-  [
-    source 82
-    target 29
-  ]
-  edge
-  [
-    source 82
-    target 7
-  ]
-  edge
-  [
-    source 83
-    target 53
-  ]
-  edge
-  [
-    source 83
-    target 81
-  ]
-  edge
-  [
-    source 83
+  edge [
+    source 3
     target 69
   ]
-  edge
-  [
-    source 83
-    target 73
-  ]
-  edge
-  [
-    source 83
-    target 46
-  ]
-  edge
-  [
-    source 83
-    target 67
-  ]
-  edge
-  [
-    source 83
-    target 49
-  ]
-  edge
-  [
-    source 84
-    target 83
-  ]
-  edge
-  [
-    source 84
-    target 24
-  ]
-  edge
-  [
-    source 84
-    target 49
-  ]
-  edge
-  [
-    source 84
-    target 52
-  ]
-  edge
-  [
-    source 84
-    target 3
-  ]
-  edge
-  [
-    source 84
-    target 74
-  ]
-  edge
-  [
-    source 84
-    target 10
-  ]
-  edge
-  [
-    source 84
-    target 81
-  ]
-  edge
-  [
-    source 84
-    target 5
-  ]
-  edge
-  [
-    source 85
-    target 6
-  ]
-  edge
-  [
-    source 85
-    target 14
-  ]
-  edge
-  [
-    source 85
-    target 38
-  ]
-  edge
-  [
-    source 85
-    target 43
-  ]
-  edge
-  [
-    source 85
-    target 80
-  ]
-  edge
-  [
-    source 85
-    target 12
-  ]
-  edge
-  [
-    source 85
-    target 26
-  ]
-  edge
-  [
-    source 85
-    target 31
-  ]
-  edge
-  [
-    source 86
-    target 44
-  ]
-  edge
-  [
-    source 86
-    target 53
-  ]
-  edge
-  [
-    source 86
-    target 75
-  ]
-  edge
-  [
-    source 86
-    target 57
-  ]
-  edge
-  [
-    source 86
-    target 48
-  ]
-  edge
-  [
-    source 86
-    target 80
-  ]
-  edge
-  [
-    source 86
-    target 66
-  ]
-  edge
-  [
-    source 87
-    target 86
-  ]
-  edge
-  [
-    source 87
-    target 17
-  ]
-  edge
-  [
-    source 87
-    target 62
-  ]
-  edge
-  [
-    source 87
-    target 56
-  ]
-  edge
-  [
-    source 87
-    target 24
-  ]
-  edge
-  [
-    source 87
-    target 20
-  ]
-  edge
-  [
-    source 87
-    target 65
-  ]
-  edge
-  [
-    source 88
-    target 49
-  ]
-  edge
-  [
-    source 88
-    target 58
-  ]
-  edge
-  [
-    source 88
-    target 83
-  ]
-  edge
-  [
-    source 88
-    target 69
-  ]
-  edge
-  [
-    source 88
-    target 46
-  ]
-  edge
-  [
-    source 88
-    target 53
-  ]
-  edge
-  [
-    source 88
-    target 73
-  ]
-  edge
-  [
-    source 88
-    target 67
-  ]
-  edge
-  [
-    source 89
-    target 88
-  ]
-  edge
-  [
-    source 89
-    target 1
-  ]
-  edge
-  [
-    source 89
-    target 37
-  ]
-  edge
-  [
-    source 89
-    target 25
-  ]
-  edge
-  [
-    source 89
-    target 33
-  ]
-  edge
-  [
-    source 89
-    target 55
-  ]
-  edge
-  [
-    source 89
-    target 45
-  ]
-  edge
-  [
-    source 90
-    target 5
-  ]
-  edge
-  [
-    source 90
-    target 8
-  ]
-  edge
-  [
-    source 90
-    target 23
-  ]
-  edge
-  [
-    source 90
-    target 0
-  ]
-  edge
-  [
-    source 90
-    target 11
-  ]
-  edge
-  [
-    source 90
-    target 50
-  ]
-  edge
-  [
-    source 90
-    target 24
-  ]
-  edge
-  [
-    source 90
-    target 69
-  ]
-  edge
-  [
-    source 90
-    target 28
-  ]
-  edge
-  [
-    source 91
-    target 29
-  ]
-  edge
-  [
-    source 91
-    target 48
-  ]
-  edge
-  [
-    source 91
-    target 66
-  ]
-  edge
-  [
-    source 91
-    target 69
-  ]
-  edge
-  [
-    source 91
-    target 44
-  ]
-  edge
-  [
-    source 91
-    target 86
-  ]
-  edge
-  [
-    source 91
-    target 57
-  ]
-  edge
-  [
-    source 91
-    target 80
-  ]
-  edge
-  [
-    source 92
-    target 91
-  ]
-  edge
-  [
-    source 92
-    target 35
-  ]
-  edge
-  [
-    source 92
-    target 15
-  ]
-  edge
-  [
-    source 92
-    target 86
-  ]
-  edge
-  [
-    source 92
-    target 48
-  ]
-  edge
-  [
-    source 92
-    target 57
-  ]
-  edge
-  [
-    source 92
-    target 61
-  ]
-  edge
-  [
-    source 92
-    target 66
-  ]
-  edge
-  [
-    source 92
-    target 75
-  ]
-  edge
-  [
-    source 93
-    target 0
-  ]
-  edge
-  [
-    source 93
-    target 23
-  ]
-  edge
-  [
-    source 93
-    target 80
-  ]
-  edge
-  [
-    source 93
-    target 16
-  ]
-  edge
-  [
-    source 93
-    target 4
-  ]
-  edge
-  [
-    source 93
-    target 82
-  ]
-  edge
-  [
-    source 93
-    target 91
-  ]
-  edge
-  [
-    source 93
-    target 41
-  ]
-  edge
-  [
-    source 93
-    target 9
-  ]
-  edge
-  [
-    source 94
-    target 34
-  ]
-  edge
-  [
-    source 94
-    target 19
-  ]
-  edge
-  [
-    source 94
-    target 55
-  ]
-  edge
-  [
-    source 94
-    target 79
-  ]
-  edge
-  [
-    source 94
-    target 80
-  ]
-  edge
-  [
-    source 94
-    target 29
-  ]
-  edge
-  [
-    source 94
-    target 30
-  ]
-  edge
-  [
-    source 94
-    target 82
-  ]
-  edge
-  [
-    source 94
-    target 35
-  ]
-  edge
-  [
-    source 95
+  edge [
+    source 3
     target 70
   ]
-  edge
-  [
-    source 95
-    target 69
+  edge [
+    source 3
+    target 71
   ]
-  edge
-  [
-    source 95
-    target 76
-  ]
-  edge
-  [
-    source 95
-    target 62
-  ]
-  edge
-  [
-    source 95
-    target 56
-  ]
-  edge
-  [
-    source 95
-    target 27
-  ]
-  edge
-  [
-    source 95
-    target 17
-  ]
-  edge
-  [
-    source 95
-    target 87
-  ]
-  edge
-  [
-    source 95
-    target 37
-  ]
-  edge
-  [
-    source 96
-    target 48
-  ]
-  edge
-  [
-    source 96
-    target 17
-  ]
-  edge
-  [
-    source 96
-    target 76
-  ]
-  edge
-  [
-    source 96
-    target 27
-  ]
-  edge
-  [
-    source 96
-    target 56
-  ]
-  edge
-  [
-    source 96
-    target 65
-  ]
-  edge
-  [
-    source 96
-    target 20
-  ]
-  edge
-  [
-    source 96
-    target 87
-  ]
-  edge
-  [
-    source 97
+  edge [
+    source 4
     target 5
   ]
-  edge
-  [
-    source 97
-    target 86
+  edge [
+    source 4
+    target 76
   ]
-  edge
-  [
-    source 97
-    target 58
+  edge [
+    source 4
+    target 72
   ]
-  edge
-  [
-    source 97
-    target 11
+  edge [
+    source 4
+    target 73
   ]
-  edge
-  [
-    source 97
-    target 59
+  edge [
+    source 4
+    target 74
   ]
-  edge
-  [
-    source 97
-    target 63
+  edge [
+    source 4
+    target 75
   ]
-  edge
-  [
-    source 98
-    target 97
+  edge [
+    source 4
+    target 12
   ]
-  edge
-  [
-    source 98
+  edge [
+    source 4
     target 77
   ]
-  edge
-  [
-    source 98
-    target 48
+  edge [
+    source 4
+    target 78
   ]
-  edge
-  [
-    source 98
-    target 84
+  edge [
+    source 5
+    target 33
   ]
-  edge
-  [
-    source 98
-    target 40
-  ]
-  edge
-  [
-    source 98
-    target 10
-  ]
-  edge
-  [
-    source 98
-    target 5
-  ]
-  edge
-  [
-    source 98
-    target 52
-  ]
-  edge
-  [
-    source 98
+  edge [
+    source 5
     target 81
   ]
-  edge
-  [
-    source 99
-    target 89
+  edge [
+    source 5
+    target 6
   ]
-  edge
-  [
-    source 99
-    target 34
+  edge [
+    source 5
+    target 7
   ]
-  edge
-  [
-    source 99
-    target 14
+  edge [
+    source 5
+    target 79
   ]
-  edge
-  [
-    source 99
+  edge [
+    source 5
+    target 12
+  ]
+  edge [
+    source 5
+    target 15
+  ]
+  edge [
+    source 5
+    target 80
+  ]
+  edge [
+    source 5
+    target 17
+  ]
+  edge [
+    source 5
+    target 82
+  ]
+  edge [
+    source 5
+    target 83
+  ]
+  edge [
+    source 5
+    target 84
+  ]
+  edge [
+    source 5
     target 85
   ]
-  edge
-  [
-    source 99
-    target 54
-  ]
-  edge
-  [
-    source 99
-    target 18
-  ]
-  edge
-  [
-    source 99
-    target 31
-  ]
-  edge
-  [
-    source 99
-    target 61
-  ]
-  edge
-  [
-    source 99
-    target 71
-  ]
-  edge
-  [
-    source 100
-    target 99
-  ]
-  edge
-  [
-    source 100
-    target 82
-  ]
-  edge
-  [
-    source 100
-    target 13
-  ]
-  edge
-  [
-    source 100
-    target 2
-  ]
-  edge
-  [
-    source 100
-    target 15
-  ]
-  edge
-  [
-    source 100
-    target 32
-  ]
-  edge
-  [
-    source 100
-    target 64
-  ]
-  edge
-  [
-    source 100
-    target 47
-  ]
-  edge
-  [
-    source 100
-    target 39
-  ]
-  edge
-  [
-    source 100
-    target 6
-  ]
-  edge
-  [
-    source 101
-    target 51
-  ]
-  edge
-  [
-    source 101
-    target 30
-  ]
-  edge
-  [
-    source 101
-    target 94
-  ]
-  edge
-  [
-    source 101
-    target 1
-  ]
-  edge
-  [
-    source 101
-    target 79
-  ]
-  edge
-  [
-    source 101
-    target 58
-  ]
-  edge
-  [
-    source 101
-    target 19
-  ]
-  edge
-  [
-    source 101
-    target 55
-  ]
-  edge
-  [
-    source 101
-    target 35
-  ]
-  edge
-  [
-    source 101
-    target 29
-  ]
-  edge
-  [
-    source 102
-    target 100
-  ]
-  edge
-  [
-    source 102
-    target 74
-  ]
-  edge
-  [
-    source 102
-    target 52
-  ]
-  edge
-  [
-    source 102
-    target 98
-  ]
-  edge
-  [
-    source 102
-    target 72
-  ]
-  edge
-  [
-    source 102
-    target 40
-  ]
-  edge
-  [
-    source 102
-    target 10
-  ]
-  edge
-  [
-    source 102
-    target 3
-  ]
-  edge
-  [
-    source 103
-    target 102
-  ]
-  edge
-  [
-    source 103
-    target 33
-  ]
-  edge
-  [
-    source 103
-    target 45
-  ]
-  edge
-  [
-    source 103
-    target 25
-  ]
-  edge
-  [
-    source 103
-    target 89
-  ]
-  edge
-  [
-    source 103
-    target 37
-  ]
-  edge
-  [
-    source 103
-    target 1
-  ]
-  edge
-  [
-    source 103
-    target 70
-  ]
-  edge
-  [
-    source 104
-    target 72
-  ]
-  edge
-  [
-    source 104
-    target 11
-  ]
-  edge
-  [
-    source 104
-    target 0
-  ]
-  edge
-  [
-    source 104
-    target 93
-  ]
-  edge
-  [
-    source 104
-    target 67
-  ]
-  edge
-  [
-    source 104
-    target 41
-  ]
-  edge
-  [
-    source 104
-    target 16
-  ]
-  edge
-  [
-    source 104
-    target 87
-  ]
-  edge
-  [
-    source 104
-    target 23
-  ]
-  edge
-  [
-    source 104
-    target 4
-  ]
-  edge
-  [
-    source 104
-    target 9
-  ]
-  edge
-  [
-    source 105
-    target 89
-  ]
-  edge
-  [
-    source 105
-    target 103
-  ]
-  edge
-  [
-    source 105
-    target 33
-  ]
-  edge
-  [
-    source 105
-    target 62
-  ]
-  edge
-  [
-    source 105
-    target 37
-  ]
-  edge
-  [
-    source 105
-    target 45
-  ]
-  edge
-  [
-    source 105
-    target 1
-  ]
-  edge
-  [
-    source 105
-    target 80
-  ]
-  edge
-  [
-    source 105
-    target 25
-  ]
-  edge
-  [
-    source 106
-    target 25
-  ]
-  edge
-  [
-    source 106
-    target 56
-  ]
-  edge
-  [
-    source 106
-    target 92
-  ]
-  edge
-  [
-    source 106
-    target 2
-  ]
-  edge
-  [
-    source 106
-    target 13
-  ]
-  edge
-  [
-    source 106
-    target 32
-  ]
-  edge
-  [
-    source 106
-    target 60
-  ]
-  edge
-  [
-    source 106
-    target 6
-  ]
-  edge
-  [
-    source 106
-    target 64
-  ]
-  edge
-  [
-    source 106
-    target 15
-  ]
-  edge
-  [
-    source 106
-    target 39
-  ]
-  edge
-  [
-    source 107
-    target 88
-  ]
-  edge
-  [
-    source 107
-    target 75
-  ]
-  edge
-  [
-    source 107
-    target 98
-  ]
-  edge
-  [
-    source 107
-    target 102
-  ]
-  edge
-  [
-    source 107
-    target 72
-  ]
-  edge
-  [
-    source 107
-    target 40
-  ]
-  edge
-  [
-    source 107
-    target 81
-  ]
-  edge
-  [
-    source 107
-    target 5
-  ]
-  edge
-  [
-    source 107
-    target 10
-  ]
-  edge
-  [
-    source 107
-    target 84
-  ]
-  edge
-  [
-    source 108
-    target 4
-  ]
-  edge
-  [
-    source 108
-    target 9
-  ]
-  edge
-  [
-    source 108
-    target 7
-  ]
-  edge
-  [
-    source 108
-    target 51
-  ]
-  edge
-  [
-    source 108
-    target 77
-  ]
-  edge
-  [
-    source 108
+  edge [
+    source 5
+    target 86
+  ]
+  edge [
+    source 5
     target 21
   ]
-  edge
-  [
-    source 108
-    target 78
+  edge [
+    source 5
+    target 26
   ]
-  edge
-  [
-    source 108
-    target 22
+  edge [
+    source 5
+    target 27
   ]
-  edge
-  [
-    source 108
-    target 68
-  ]
-  edge
-  [
-    source 109
-    target 79
-  ]
-  edge
-  [
-    source 109
-    target 30
-  ]
-  edge
-  [
-    source 109
-    target 63
-  ]
-  edge
-  [
-    source 109
-    target 1
-  ]
-  edge
-  [
-    source 109
-    target 33
-  ]
-  edge
-  [
-    source 109
-    target 103
-  ]
-  edge
-  [
-    source 109
-    target 105
-  ]
-  edge
-  [
-    source 109
-    target 45
-  ]
-  edge
-  [
-    source 109
-    target 25
-  ]
-  edge
-  [
-    source 109
-    target 89
-  ]
-  edge
-  [
-    source 109
-    target 37
-  ]
-  edge
-  [
-    source 110
-    target 67
-  ]
-  edge
-  [
-    source 110
-    target 13
-  ]
-  edge
-  [
-    source 110
-    target 24
-  ]
-  edge
-  [
-    source 110
-    target 80
-  ]
-  edge
-  [
-    source 110
-    target 88
-  ]
-  edge
-  [
-    source 110
-    target 49
-  ]
-  edge
-  [
-    source 110
-    target 73
-  ]
-  edge
-  [
-    source 110
-    target 46
-  ]
-  edge
-  [
-    source 110
-    target 83
-  ]
-  edge
-  [
-    source 110
-    target 53
-  ]
-  edge
-  [
-    source 111
-    target 23
-  ]
-  edge
-  [
-    source 111
-    target 64
-  ]
-  edge
-  [
-    source 111
-    target 46
-  ]
-  edge
-  [
-    source 111
-    target 78
-  ]
-  edge
-  [
-    source 111
+  edge [
+    source 6
     target 8
   ]
-  edge
-  [
-    source 111
-    target 21
+  edge [
+    source 6
+    target 9
   ]
-  edge
-  [
-    source 111
-    target 51
+  edge [
+    source 6
+    target 12
   ]
-  edge
-  [
-    source 111
-    target 7
+  edge [
+    source 6
+    target 14
   ]
-  edge
-  [
-    source 111
-    target 108
-  ]
-  edge
-  [
-    source 111
-    target 68
-  ]
-  edge
-  [
-    source 111
-    target 77
-  ]
-  edge
-  [
-    source 112
-    target 52
-  ]
-  edge
-  [
-    source 112
-    target 96
-  ]
-  edge
-  [
-    source 112
-    target 97
-  ]
-  edge
-  [
-    source 112
-    target 57
-  ]
-  edge
-  [
-    source 112
-    target 66
-  ]
-  edge
-  [
-    source 112
-    target 63
-  ]
-  edge
-  [
-    source 112
-    target 44
-  ]
-  edge
-  [
-    source 112
-    target 92
-  ]
-  edge
-  [
-    source 112
-    target 75
-  ]
-  edge
-  [
-    source 112
-    target 91
-  ]
-  edge
-  [
-    source 113
-    target 28
-  ]
-  edge
-  [
-    source 113
-    target 20
-  ]
-  edge
-  [
-    source 113
-    target 95
-  ]
-  edge
-  [
-    source 113
-    target 59
-  ]
-  edge
-  [
-    source 113
-    target 70
-  ]
-  edge
-  [
-    source 113
-    target 17
-  ]
-  edge
-  [
-    source 113
-    target 87
-  ]
-  edge
-  [
-    source 113
-    target 76
-  ]
-  edge
-  [
-    source 113
-    target 65
-  ]
-  edge
-  [
-    source 113
-    target 96
-  ]
-  edge
-  [
-    source 114
-    target 83
-  ]
-  edge
-  [
-    source 114
-    target 88
-  ]
-  edge
-  [
-    source 114
-    target 110
-  ]
-  edge
-  [
-    source 114
-    target 53
-  ]
-  edge
-  [
-    source 114
-    target 49
-  ]
-  edge
-  [
-    source 114
-    target 73
-  ]
-  edge
-  [
-    source 114
-    target 46
-  ]
-  edge
-  [
-    source 114
-    target 67
-  ]
-  edge
-  [
-    source 114
-    target 58
-  ]
-  edge
-  [
-    source 114
+  edge [
+    source 6
     target 15
   ]
-  edge
-  [
-    source 114
-    target 104
+  edge [
+    source 6
+    target 18
+  ]
+  edge [
+    source 6
+    target 21
+  ]
+  edge [
+    source 6
+    target 27
+  ]
+  edge [
+    source 6
+    target 75
+  ]
+  edge [
+    source 6
+    target 87
+  ]
+  edge [
+    source 6
+    target 88
+  ]
+  edge [
+    source 6
+    target 89
+  ]
+  edge [
+    source 6
+    target 90
+  ]
+  edge [
+    source 6
+    target 91
+  ]
+  edge [
+    source 6
+    target 92
+  ]
+  edge [
+    source 6
+    target 93
+  ]
+  edge [
+    source 6
+    target 94
+  ]
+  edge [
+    source 6
+    target 95
+  ]
+  edge [
+    source 6
+    target 96
+  ]
+  edge [
+    source 6
+    target 97
+  ]
+  edge [
+    source 6
+    target 98
+  ]
+  edge [
+    source 6
+    target 99
+  ]
+  edge [
+    source 7
+    target 100
+  ]
+  edge [
+    source 7
+    target 21
+  ]
+  edge [
+    source 7
+    target 27
+  ]
+  edge [
+    source 8
+    target 40
+  ]
+  edge [
+    source 8
+    target 12
+  ]
+  edge [
+    source 8
+    target 15
+  ]
+  edge [
+    source 8
+    target 20
+  ]
+  edge [
+    source 8
+    target 21
+  ]
+  edge [
+    source 8
+    target 23
+  ]
+  edge [
+    source 8
+    target 9
+  ]
+  edge [
+    source 8
+    target 29
+  ]
+  edge [
+    source 9
+    target 15
+  ]
+  edge [
+    source 9
+    target 23
+  ]
+  edge [
+    source 9
+    target 29
+  ]
+  edge [
+    source 9
+    target 33
+  ]
+  edge [
+    source 9
+    target 69
+  ]
+  edge [
+    source 10
+    target 72
+  ]
+  edge [
+    source 10
+    target 137
+  ]
+  edge [
+    source 10
+    target 44
+  ]
+  edge [
+    source 10
+    target 17
+  ]
+  edge [
+    source 10
+    target 19
+  ]
+  edge [
+    source 10
+    target 21
+  ]
+  edge [
+    source 10
+    target 24
+  ]
+  edge [
+    source 11
+    target 83
+  ]
+  edge [
+    source 12
+    target 13
+  ]
+  edge [
+    source 12
+    target 15
+  ]
+  edge [
+    source 12
+    target 17
+  ]
+  edge [
+    source 12
+    target 21
+  ]
+  edge [
+    source 12
+    target 23
+  ]
+  edge [
+    source 12
+    target 27
+  ]
+  edge [
+    source 12
+    target 44
+  ]
+  edge [
+    source 12
+    target 68
+  ]
+  edge [
+    source 12
+    target 75
+  ]
+  edge [
+    source 13
+    target 14
+  ]
+  edge [
+    source 13
+    target 15
+  ]
+  edge [
+    source 13
+    target 23
+  ]
+  edge [
+    source 14
+    target 33
+  ]
+  edge [
+    source 14
+    target 32
+  ]
+  edge [
+    source 14
+    target 75
+  ]
+  edge [
+    source 14
+    target 92
+  ]
+  edge [
+    source 15
+    target 23
+  ]
+  edge [
+    source 15
+    target 29
+  ]
+  edge [
+    source 15
+    target 32
+  ]
+  edge [
+    source 15
+    target 33
+  ]
+  edge [
+    source 15
+    target 55
+  ]
+  edge [
+    source 16
+    target 33
+  ]
+  edge [
+    source 17
+    target 37
+  ]
+  edge [
+    source 17
+    target 38
+  ]
+  edge [
+    source 17
+    target 20
+  ]
+  edge [
+    source 17
+    target 21
+  ]
+  edge [
+    source 17
+    target 22
+  ]
+  edge [
+    source 17
+    target 24
+  ]
+  edge [
+    source 17
+    target 25
+  ]
+  edge [
+    source 17
+    target 26
+  ]
+  edge [
+    source 18
+    target 19
+  ]
+  edge [
+    source 18
+    target 26
+  ]
+  edge [
+    source 18
+    target 37
+  ]
+  edge [
+    source 18
+    target 40
+  ]
+  edge [
+    source 18
+    target 69
+  ]
+  edge [
+    source 18
+    target 81
+  ]
+  edge [
+    source 18
+    target 85
   ]
 ]
